@@ -1,0 +1,23 @@
+body{
+	background-color: #eee;
+	text-align: center;
+}
+
+h1{
+	font-size: 30px;
+	font-family: "Press Start 2P";
+	margin: 3%; 
+}
+
+canvas{
+	
+	width: 50%;
+	background-color: grey;
+	border: 2px solid black;
+}
+
+footer{
+	font-size: 10px;
+	font-family: "Press Start 2P";
+	margin: 3%; 
+}
